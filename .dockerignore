@@ -1,0 +1,14 @@
+﻿*.pyc
+*.pyo
+*.pyd
+__pycache__
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.log
+*.sqlite
+*.wav
+vosk-model/
